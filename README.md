@@ -1,3 +1,3 @@
 # Setup
-1. Clone in `~/.vim/pack/plugins/start`
+1. Clone as `~/.vim/pack/plugins` or clone then ```ln -s . ~/.vim/pack/plugins```
 2. ```git submodule update --init --recursive```
