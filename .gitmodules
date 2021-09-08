@@ -16,3 +16,6 @@
 [submodule "vim-vue"]
 	path = start/vim-vue
 	url = https://github.com/posva/vim-vue.git
+[submodule "start/a"]
+	path = start/a
+	url = https://github.com/vim-scripts/a.vim
